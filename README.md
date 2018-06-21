@@ -1,5 +1,5 @@
-# media_ping_win
-Script simples que mostra a média de tempo de resposta de um ping em um determinado ip.
+# Média Ping em Python (Windows)
+### Script simples que mostra a média de tempo de resposta de um ping em um determinado ip.
 
 Executando:
 
@@ -19,5 +19,5 @@ Será exibido:
 **Dados:** Quantidade de registros de tempo de resposta do ping referente ao ip.
 
 
-## Qualquer dúvida:
-> Grupo PyNerds no WhatsApp -> https://chat.whatsapp.com/EcO8gain0Wf1Yhn8puFMys
+## Dúvidas:
+> Grupo **PyNerds** no WhatsApp -> https://chat.whatsapp.com/EcO8gain0Wf1Yhn8puFMys

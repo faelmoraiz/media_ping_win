@@ -15,7 +15,9 @@ Será exibido:
 ![03](https://i.imgur.com/xDhFCt5.png)
 
 **Ping:** Tempo de resposta do último ping.
+
 **Média:** Entre todos os pings registrados em um arquivo .txt com o número do ip ou domínio setado no inicio do programa.
+
 **Dados:** Quantidade de registros de tempo de resposta do ping referente ao ip.
 
 

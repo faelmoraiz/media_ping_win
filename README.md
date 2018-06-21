@@ -2,7 +2,7 @@
 Script simples que mostra a média de tempo de resposta de um ping em um determinado ip.
 
 Executando:
-!(https://image.prntscr.com/image/bsl46PdhT8uPgiN4FA8_sg.png)
+![01](https://imgur.com/3mS9ncc)
 
 Digite o domínio ou ip(Rede interna ou rede externa):
 !(https://image.prntscr.com/image/Pz_c6i-rQUiRZI-1m-exbA.png)

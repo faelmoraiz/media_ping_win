@@ -31,7 +31,6 @@ def sendmail(toaddr, msg, passwd):
 
 def ping(ip, passwd):
 	lst=[]
-
 	try:
 		r=open(ip.replace('.','_')+'.txt', 'r')
 		for x in r:
